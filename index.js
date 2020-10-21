@@ -16,7 +16,7 @@ const courses = [
 
 // root route
 app.get('/', (req, res) => {
-    res.send('hello world')
+    res.send('hello world, from heroku')
 })
 
 //fetch and  get all courses
