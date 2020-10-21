@@ -16,7 +16,7 @@ const courses = [
 
 // root route
 app.get('/', (req, res) => {
-    res.send('hello world, review')
+    res.send('hello world, dev review')
 })
 
 //fetch and  get all courses
